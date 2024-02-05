@@ -1,0 +1,41 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <atom:link href="http://test.su/rss.xml" type="application/rss+xml" rel="self"/>
+        <itunes:owner>
+            <itunes:email>test@gmail.com</itunes:email>
+        </itunes:owner>
+        <language>ru-ru</language>
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <url>https://sun9-17.userapi.com/impg/do6c_9WKFqqsyBMAuKG1vFUTZEm3_MEGotP49g/ny5kSeT0GJ8.jpg?size=576x576&quality=95&sign=7ea39599121a73c1ae6234498d6309e9&type=album</url>
+            <title>Тестирование</title>
+            <link>http://test.su</link>
+        </image>
+        <itunes:image href="https://sun9-17.userapi.com/impg/do6c_9WKFqqsyBMAuKG1vFUTZEm3_MEGotP49g/ny5kSeT0GJ8.jpg?size=576x576&quality=95&sign=7ea39599121a73c1ae6234498d6309e9&type=album">
+            <itunes:url>https://sun9-17.userapi.com/impg/do6c_9WKFqqsyBMAuKG1vFUTZEm3_MEGotP49g/ny5kSeT0GJ8.jpg?size=576x576&quality=95&sign=7ea39599121a73c1ae6234498d6309e9&type=album</itunes:url>
+            <itunes:link>http://test.su</itunes:link>
+        </itunes:image>
+        <link>http://test.su</link>
+        <title>Подкасты на тему Тестирование</title>
+        <description>Подкасты на тему Тестирование</description>
+        <itunes:summary>Подкасты на тему Тестирование</itunes:summary>
+        <itunes:author/>
+        <category>Тестирование</category>
+        <lastBuildDate>Tue, 06 Feb 2024 00:34:16 +0300</lastBuildDate>
+        <item>
+            <title>Тестирование</title>
+            <link>http://test.su</link>
+            <guid>http://test.su</guid>
+            <pubDate>Wed, 15 Nov 2017 16:37:00 +0300</pubDate>
+            <description>test</description>
+            <enclosure url="https://track.pinkamuz.pro/download/d335343133313631b4348c3731353332b6b430b00400/7ad86de847059cecf1eaacfbef17176e/Farm%20Frenzy%20-%2002%20%D0%92%D0%B5%D1%81%D1%91%D0%BB%D0%B0%D1%8F%20%D0%A4%D0%B5%D1%80%D0%BC%D0%B0%20%28%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B8%29.mp3" length="44627090" type="audio/mpeg"/>
+            <itunes:author>Slovenly</itunes:author>
+            <itunes:summary>ntcn</itunes:summary>
+            <itunes:duration>1859</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:image href="https://sun9-17.userapi.com/impg/do6c_9WKFqqsyBMAuKG1vFUTZEm3_MEGotP49g/ny5kSeT0GJ8.jpg?size=576x576&quality=95&sign=7ea39599121a73c1ae6234498d6309e9&type=album"/>
+            <podfm:nodownload>no</podfm:nodownload>
+            <podfm:downloadCount>0</podfm:downloadCount>
+        </item>
+    </channel>
+</rss>
